@@ -1,4 +1,8 @@
 # EBS 
+
+## terms
+https://youtu.be/gUYa7RzrNhM?t=315
+
 ## ssd 
 gp2 - up to 10000 iops ( 3 iops per 1Gb)  
 io1,ios2- provioned iops ( io2 has better durability)   
