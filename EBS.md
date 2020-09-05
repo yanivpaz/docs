@@ -3,7 +3,7 @@
 gp2 - up to 10000 iops ( 3 iops per 1Gb)
 io1,ios2- provioned iops ( io2 has better durability)  
 
-## non ssd
+## non ssd ( can be boot volumes) 
 st1 - throuput optimized 
 sc1  -cold storage 
 
