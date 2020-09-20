@@ -3,7 +3,7 @@ parameters store vs secrtet manager
 
 ## parameters store
 # pros
-encrypt and decrypt
+encryptd anon encrypted 
 
 ## cons
 
