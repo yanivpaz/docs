@@ -9,7 +9,7 @@ encrypt and decrypt
 
 ## secret manager
 pros:
-rotation os secrets 
+rotation of RDS secrets 
 can be shared between accounts 
 
 cons:
