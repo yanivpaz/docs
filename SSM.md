@@ -3,14 +3,14 @@ parameters store vs secrtet manager
 
 ## parameters store
 # pros
-encryptd anon encrypted 
+encryptd and non encrypted 
 
 ## cons
 
 ## secret manager
 pros:
-rotation of RDS secrets 
-can be shared between accounts 
+* rotation of RDS secrets 
+*  can be shared between accounts 
 
 cons:
 more expensive
