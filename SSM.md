@@ -2,23 +2,12 @@
 parameters store vs secrtet manager
 
 ## parameters store
-# pros
+### pros
 encryptd and non encrypted 
-
-## cons
-
+### cons
 ## secret manager
-pros:
+### pros
 * rotation of RDS secrets 
 * can be shared between accounts 
-
-cons:
+### cons
 more expensive
-
-
-# SSE-C (can be replicate)
-# client side encryption 
-
-
-# SSE-S3
-# SSE -KMS
