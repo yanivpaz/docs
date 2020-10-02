@@ -2,7 +2,7 @@
 SSE - server side
 
 ## AWS keys  
-* SSE-S3 (AES-256) - AWS managed key for S3  
+* SSE-S3 (AES-256) - AWS S3 managed key for S3  
 * SSE-KMS (AWS-KMS)  -AWS KMS key defined by user  
 
 ## not AWS keys 
