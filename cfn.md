@@ -1,4 +1,7 @@
 # docs
+## Awseome
+https://github.com/aws-cloudformation/awesome-cloudformation
+
 ## General examples
 https://github.com/yanivpaz/cloudformation-best-practices
 
