@@ -7,3 +7,4 @@
   * s3 and dynmodb cis benchmark 
 - no TF enterprise
 - cfn init
+  * https://stackoverflow.com/questions/35095950/what-are-the-benefits-of-cfn-init-over-userdata#:~:text=A%20major%20benefit%20of%20AWS,and%20update%20your%20stack%2C%20CloudFormation
