@@ -9,3 +9,5 @@
    * K8S
 6. Simple upgrade -https://github.com/awslabs/amazon-eks-ami/issues/548
 7. Simple integration to external modules ( Consul  , Promethuse etc) 
+8. use export -import
+Having a look at this quick start, the nested stacks are referenced from each other, with their templates all stored in S3. To break these stacks apart from each other, so they are separate stacks, would require considerable re-engineering of the templates to makes use of imports and exports rather than the outputs of each stack.
