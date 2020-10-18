@@ -24,3 +24,6 @@ https://pypi.org/project/cloudformation-docs/
 ## TheDanBlanco/reinvent-2019
 https://github.com/TheDanBlanco/reinvent-2019?sc_channel=sm&sc_campaign=AWS_reInvent&sc_publisher=TWITTER&sc_country=AWS+CloudFormation&sc_outcome=awareness&trk=AWS_reinvent_TWITTER&linkId=78886317
 
+
+## hacks
+https://garbe.io/blog/2017/07/17/cloudformation-hacks/
