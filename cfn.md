@@ -1,7 +1,4 @@
 # docs
-## Cloud former 
-https://github.com/iann0036/former2/blob/master/cli/README.md
-
 ## Awseome
 https://github.com/aws-cloudformation/awesome-cloudformation
 
@@ -22,11 +19,15 @@ https://github.com/aws-cloudformation/cloudformation-guard/
 
 ## Document generate 
 https://pypi.org/project/cloudformation-docs/ 
- 
- 
+
+## Cloud former 
+https://github.com/iann0036/former2/blob/master/cli/README.md
+
 ## TheDanBlanco/reinvent-2019
 https://github.com/TheDanBlanco/reinvent-2019?sc_channel=sm&sc_campaign=AWS_reInvent&sc_publisher=TWITTER&sc_country=AWS+CloudFormation&sc_outcome=awareness&trk=AWS_reinvent_TWITTER&linkId=78886317
 
-
 ## hacks
 https://garbe.io/blog/2017/07/17/cloudformation-hacks/
+
+## upgrade
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks-update-behaviors.html#update-some-interrupt
